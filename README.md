@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Restaurant Review Summarizer**
 
-- 🌱 I’m currently learning **Python,, ML and Deep Learning, HTML, CSS, Javascript, React.Js**
+- 🌱 I’m currently learning **Python, ML and Deep Learning, HTML, CSS, Javascript, React.Js**
 
 - ⚡ Fun fact **I like Suits! Sue me!**
 
