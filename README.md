@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam14243&label=Profile%20views&color=0e75b6&style=flat" alt="sam14243" /> </p>
 
-- 🔭 I’m currently working on **Restaurant Review Summarizer**
+- 🔭 I’m currently working on **Deep Learning, Machine Learning, Computer Vision, Natural Language Processing**
 
-- 🌱 I’m currently learning **Python, ML and Deep Learning, HTML, CSS, Javascript, React.Js**
+- 🌱 I’m currently learning **Python, ML and Deep Learning, HTML, CSS, Javascript, React.Js and Data Structures and Algorithms**
 
 - ⚡ Fun fact **I like Suits! Sue me!**
 
