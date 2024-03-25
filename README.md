@@ -14,8 +14,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/anantha-murthy-s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sam14243" height="30" width="40" /></a>
 </p>
-<a href="https://linkedin.com/in/anantha-murthy-s/" target="blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
 
 <h3 align="left">Languages and Tools:</h3>
 
