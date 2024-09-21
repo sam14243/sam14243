@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python, ML and Deep Learning, HTML, CSS, Javascript, React.Js and Data Structures and Algorithms**
 
-- ⚡ Fun fact **I like Suits! Sue me!**
+- ⚡ Fun fact **I like Suits!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
