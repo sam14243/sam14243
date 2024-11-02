@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sam14243&show_icons=true&locale=en" alt="hehe" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sam14243&" alt="sam14243" /></p>
+
+[![An image of @sam14243's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sam14243)](https://holopin.io/@sam14243
