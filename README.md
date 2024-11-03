@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently learning **Python, ML and Deep Learning, HTML, CSS, Javascript, React.Js and Data Structures and Algorithms**
 
+- 💬 New to **open source** and eager to learn and contribute! 
+
 - ⚡ Fun fact **I like Suits!**
 
 <h3 align="left">Connect with me:</h3>
@@ -29,4 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sam14243&" alt="sam14243" /></p>
 
-[![An image of @sam14243's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sam14243)](https://holopin.io/@sam14243
+[![An image of @sam14243's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sam14243)](https://holopin.io/@sam14243)
