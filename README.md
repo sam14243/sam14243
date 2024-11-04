@@ -24,11 +24,10 @@
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) <br/>
   ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <br/> 
 
-   
+[![An image of @sam14243's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sam14243)](https://holopin.io/@sam14243)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sam14243&show_icons=true&locale=en&layout=compact" alt="sam14243" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sam14243&show_icons=true&locale=en" alt="hehe" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sam14243&" alt="sam14243" /></p>
-
-[![An image of @sam14243's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sam14243)](https://holopin.io/@sam14243)
